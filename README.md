@@ -1,0 +1,29 @@
+By accessing, copying, or indexing this **privacy policy** or any **DATA** covered by this policy, you **agree** to the following **terms**:
+
+**DATA OWNER**: The person or group whose personal information is included in, or collected as a result of, actions, usage of products, or being recorded, logged, or profiled in any form.
+
+**DATA**: Personal or non-personal information, as well as products and byproducts of that information.
+
+**VIEWER**: A person, group, legal entity, or government institution that has gained access to **DATA**, either accidentally or intentionally.
+
+**DATA HOLDER**: A person, group, legal entity, or government institution that is storing **DATA** in any form.
+
+**UNAUTHORIZED DATA HOLDER**: A person, group, legal entity, or government institution that is storing **DATA** without the prior written consent of the **DATA OWNER**.
+
+Any **DATA** accessed without the prior written and physically signed consent of the **DATA OWNER** will be considered a **violation of privacy**.
+
+**VIEWER** and/or **DATA HOLDER** are responsible for preventing unauthorized third-party access to the **DATA**.
+
+**VIEWER** must issue a privacy violation notice in a format accessible to the intended recipient.
+
+If the **DATA** was accessed accidentally by the **VIEWER** or if the **VIEWER** becomes aware that third parties are accessing the **DATA**, the **VIEWER** must notify the **DATA OWNER** of the **privacy violation**. Failure to issue this notice within 24 hours of accessing the **DATA** will reclassify the **VIEWER** as an **UNAUTHORIZED DATA HOLDER**.
+
+**DATA** obtained prior to notification must be securely encrypted and accessible to the **DATA OWNER** at any time.
+
+**DATA HOLDER** must notify the **DATA OWNER** when storing DATA. Failure to issue this notification within 24 hours of accessing the **DATA** will reclassify the **VIEWER** as an **UNAUTHORIZED DATA HOLDER**.
+
+The **DATA OWNER** may revoke a **DATA HOLDER’s** permission to store **DATA** at any time.
+
+All necessary conversions shall be conducted upon request by the **DATA HOLDER** to render the data usable for the **DATA OWNER**. Failure to fulfill this request within 7 days will reclassify the **VIEWER** as an **UNAUTHORIZED DATA HOLDER**.
+
+**Failure to comply with this privacy policy will result in legal liability.**
