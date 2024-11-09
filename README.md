@@ -20,7 +20,7 @@ If the **DATA** was accessed accidentally by the **VIEWER** or if the **VIEWER**
 
 **DATA** obtained prior to notification must be securely encrypted and accessible to the **DATA OWNER** at any time.
 
-**DATA HOLDER** must notify the **DATA OWNER** when storing DATA. Failure to issue this notification within 24 hours of accessing the **DATA** will reclassify the **VIEWER** as an **UNAUTHORIZED DATA HOLDER**.
+**DATA HOLDER** must notify the **DATA OWNER** when storing DATA. Failure to issue this notification within 24 hours of accessing the **DATA** will reclassify the **DATA HOLDER** as an **UNAUTHORIZED DATA HOLDER**.
 
 The **DATA OWNER** may revoke a **DATA HOLDER’s** permission to store **DATA** at any time.
 
