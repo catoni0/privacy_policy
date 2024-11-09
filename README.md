@@ -24,6 +24,6 @@ If the **DATA** was accessed accidentally by the **VIEWER** or if the **VIEWER**
 
 The **DATA OWNER** may revoke a **DATA HOLDER’s** permission to store **DATA** at any time.
 
-All necessary conversions shall be conducted upon request by the **DATA HOLDER** to render the data usable for the **DATA OWNER**. Failure to fulfill this request within 7 days will reclassify the **VIEWER** as an **UNAUTHORIZED DATA HOLDER**.
+All necessary conversions shall be conducted upon request by the **DATA HOLDER** to render the data usable for the **DATA OWNER**. Failure to fulfill this request within 7 days will reclassify the **DATA HOLDER** as an **UNAUTHORIZED DATA HOLDER**.
 
 **Failure to comply with this privacy policy will result in legal liability.**
