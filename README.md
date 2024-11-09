@@ -1,3 +1,5 @@
+Privacy Policy
+
 By accessing, copying, or indexing this **privacy policy** or any **DATA** covered by this policy, you **agree** to the following **terms**:
 
 **DATA OWNER**: The person or group whose personal information is included in, or collected as a result of, actions, usage of products, or being recorded, logged, or profiled in any form.
